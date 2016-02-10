@@ -1,14 +1,12 @@
-# Starter for HTML/CSS/JS projects
+# Christensen Yachts
 
-Includes Gulp to compile Sass into CSS, along with Autoprefixer and Browser Sync.
+You can install gulp locally on your machine or you can just go fork the "public" folder. The only thing is, you may have to unminify the code.
 
-## Setup
+## Gulp Setup
 
-Before starting, you'll need [Node](https://nodejs.org/) (which includes NPM).
+If you have node, you'll be fine
 
-If using OSX, I'd recommend this guide to [getting set up with Node and NPM](http://www.johnpapa.net/how-to-use-npm-global-without-sudo-on-osx/).
-
-Then install Gulp using `npm install -g gulp`. This installs Gulp globally and is needed later.
+Install Gulp using `npm install -g gulp`. This installs Gulp globally and is needed later.
 
 Clone this repo to your local computer using this command:
 
@@ -24,10 +22,4 @@ With this set up, you should now be able to run:
 
 This will process any Sass (SCSS) files and launch a web browser showing the current files. Making changes to the files should result in the page updating automatically.
 
-## Questions
 
-Drop me a line at [hello@cssanimation.rocks](hello@cssanimation.rocks) with any questions or thoughts. Pull requests welcomed!
-
-### License
-
-MIT
